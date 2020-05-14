@@ -101,7 +101,7 @@ object libraries {
     "scalameta-paradise"       -> "3.0.0-M11",
     "scalamock"                -> "4.4.0",
     "scalatags"                -> "0.6.7",
-    "scalatest"                -> "3.1.1",
+    "scalatest"                -> "3.1.2",
     "scalatestPlus"            -> "3.1.1.1",
     "scalaz"                   -> "7.2.27",
     "scalazspecs2"             -> "0.5.2",

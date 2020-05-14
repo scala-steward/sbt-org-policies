@@ -29,7 +29,7 @@ object ProjectPlugin extends AutoPlugin {
       val scalacheck: String        = "1.14.3"
       val scalacheckToolbox: String = "0.3.5"
       val scalamock: String         = "4.4.0"
-      val scalatest: String         = "3.1.1"
+      val scalatest: String         = "3.1.2"
       val scalatestPlus: String     = "3.1.1.1"
       val scalaxml: String          = "1.3.0"
     }
